@@ -19,6 +19,9 @@ const Header = ({ currentUser, hidden }) => (
             <Logo className='logo' />
         </Link>
         <div className='options'>
+            <h1>Divine Metamorphoses Online Store</h1>
+        </div>
+        <div className='options'>
             <Link className='option' to='/shop'>
                 SHOP
             </Link>
